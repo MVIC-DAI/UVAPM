@@ -1,0 +1,1 @@
+bash run_rgb_fitting.sh
