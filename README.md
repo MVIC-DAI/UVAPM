@@ -95,7 +95,7 @@ checkpoints
 To generate a UV albedo map from a single image, run the following command:
 
 ```bash
-python generate_albedo.py --input_image path/to/your/image.jpg --output_path path/to/save/output
+bash run_rgb_fitting.sh
 ```
 
 ### 2. Training the Detail Generator
@@ -113,7 +113,7 @@ To render a 3D face model using the generated albedo map, run:
 ```bash
 python render_3d_face.py --albedo_map path/to/albedo_map.png --output_path path/to/save/render
 ```
-
+The code will be uploaded after the article is officially accepted.
 ## Results
 
 Our method generates high-quality UV albedo maps with fine details, as shown in the examples below:
