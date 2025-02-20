@@ -1,4 +1,4 @@
-# High-Quality Facial Albedo Generation for 3D Face Reconstruction
+# High-Quality Facial Albedo Generation for 3D Face Reconstruction from a Single Image using a Coarse-to-Fine Approachs
 
 This repository contains the implementation of our paper **"High-Quality Facial Albedo Generation for 3D Face Reconstruction from a Single Image using a Coarse-to-Fine Approach"**. Our method generates high-fidelity UV albedo maps from a single image, enabling realistic 3D face reconstruction with detailed textures. The code and pre-trained models are publicly available to facilitate further research and reproducibility.
 
