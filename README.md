@@ -127,11 +127,11 @@ For more detailed results and comparisons with state-of-the-art methods, please 
 If you find this work useful in your research, please consider citing our paper:
 
 ```bibtex
-@article{dai2025high,
+@inproceedings{Dai2025HighQualityFA,
   title={High-Quality Facial Albedo Generation for 3D Face Reconstruction from a Single Image using a Coarse-to-Fine Approach},
-  author={Dai, Jiashu and Wang, Along and Ni, Binfan and Cao, Tao},
-  journal={arXiv preprint arXiv:XXXX.XXXXX},
-  year={2025}
+  author={Jiashu Dai and Along Wang and Binfan Ni and Tao Cao},
+  year={2025},
+  url={https://api.semanticscholar.org/CorpusID:279402064}
 }
 ```
 
