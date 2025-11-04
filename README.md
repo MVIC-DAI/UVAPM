@@ -1,4 +1,5 @@
 # High-Quality Facial Albedo Generation for 3D Face Reconstruction from a Single Image using a Coarse-to-Fine Approachs
+![](https://socialify.git.ci/MVIC-DAI/UVAPM/image?description=1&font=Inter&forks=1&issues=1&language=1&name=1&pattern=Solid&pulls=1&stargazers=1&theme=Light)
 This repository contains the implementation of our paper **"High-Quality Facial Albedo Generation for 3D Face Reconstruction from a Single Image using a Coarse-to-Fine Approach"**. Our method generates high-fidelity UV albedo maps from a single image, enabling realistic 3D face reconstruction with detailed textures. **The pre-trained models are publicly available to facilitate further research and reproducibility.**
 
 ## Table of Contents
